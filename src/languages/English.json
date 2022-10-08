@@ -16,5 +16,12 @@
   "taskLanguage": "Task language",
   "taskSubmit": "Save task",
   "edit": "Edit",
-  "delete": "Delete"
+  "delete": "Delete",
+  "Translation": "Translation",
+  "translationContent": "This is the translation page.",
+  "realValue": "Real value",
+  "staticExample_one": "Static example",
+  "staticExample_other": "Static examples",
+  "amountOfTasks_one": "There is {{count}} task in the todo-list.",
+  "amountOfTasks_other": "There are {{count}} tasks in the todo-list."
 }

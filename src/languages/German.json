@@ -16,5 +16,12 @@
   "taskLanguage": "Sprache",
   "taskSubmit": "Aufgabe speichern",
   "edit": "Bearbeiten",
-  "delete": "Löschen"
+  "delete": "Löschen",
+  "Translation": "Übersetzung",
+  "translationContent": "Hier befindet sich das Übersetzungsbeispiel.",
+  "realValue": "Echte Wert",
+  "staticExample_one": "Statisches Beispiel",
+  "staticExample_other": "Statische Beispiele",
+  "amountOfTasks_one": "Es befindet sich {{count}} Aufgabe in der Todo-Liste.",
+  "amountOfTasks_other": "Es befinden sich {{count}} Aufgaben in the Todo-Liste."
 }
